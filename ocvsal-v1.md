@@ -1,5 +1,4 @@
-Open Core Ventures Source Available License (OCVSAL) version 1.0 
-(https://github.com/OpenCoreVentures/open-core-ventures-source-available-license/blob/main/ocvsal-v1.md)
+**Open Core Ventures Source Available License (OCVSAL) version 1.0 **
 
 Using software and associated documentation files (the "Software") in production requires a valid commercial agreement from the copyright holder.
 
