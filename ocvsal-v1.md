@@ -1,4 +1,4 @@
-**Open Core Ventures Source Available License (OCVSAL) version 1.0 **
+**Open Core Ventures Source Available License (OCVSAL) version 1.0**
 
 Using software and associated documentation files (the "Software") in production requires a valid commercial agreement from the copyright holder.
 
