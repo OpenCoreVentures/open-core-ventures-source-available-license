@@ -1,6 +1,8 @@
 # Open Core Ventures Source Available License (OCVSAL)
 
-s a source available license designed specifically to cover the proprietary components of software. It’s a simple license that clearly requires a commercial agreement for production use while providing access to the codebase. Here’s how it works:
+## About
+
+Open Core Ventures Source Available License (OCVSAL) is a source available license designed specifically to cover the proprietary components of software. It’s a simple license that clearly requires a commercial agreement for production use while providing access to the codebase. Here’s how it works:
 
 - **View and modify:** Users can view, modify, test, and publish modifications to the code.
 - **Commercial agreement required:** Using the software in production requires a valid commercial agreement (subscription or contract) with the license holder.
